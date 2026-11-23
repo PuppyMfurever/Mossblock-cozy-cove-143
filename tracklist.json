@@ -1,0 +1,47 @@
+[
+  {
+    "realm": "meadow",
+    "title": "Morning in Bloomvale",
+    "bpm": 92
+  },
+  {
+    "realm": "snow",
+    "title": "Lanterns in the Snow",
+    "bpm": 72
+  },
+  {
+    "realm": "forest",
+    "title": "Under the Elderbough",
+    "bpm": 84
+  },
+  {
+    "realm": "coast",
+    "title": "Pearlreach Tide",
+    "bpm": 88
+  },
+  {
+    "realm": "swamp",
+    "title": "Fireflies at Dusk",
+    "bpm": 76
+  },
+  {
+    "realm": "lava",
+    "title": "Emberleaf Waltz",
+    "bpm": 96
+  },
+  {
+    "realm": "mountain",
+    "title": "Highwind Reverie",
+    "bpm": 80
+  },
+  {
+    "realm": "cloud",
+    "title": "Aetherlight Lullaby",
+    "bpm": 68
+  },
+  {
+    "realm": "sanctuary",
+    "title": "Everhaven Homecoming",
+    "bpm": 82
+  }
+]
